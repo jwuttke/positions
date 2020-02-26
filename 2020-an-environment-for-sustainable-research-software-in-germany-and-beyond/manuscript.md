@@ -69,7 +69,8 @@ author:
 - 'Benjamin Uekerman 40'
 - 'Stefan Unger 41'
 - 'Rudolf Weeber 25'
- 'Piotr Wojciech Dabrowski 48'
+- 'Piotr Wojciech Dabrowski 48'
+- 'Joachim Wuttke 49'
 affiliations:
 1. Steinbuch Centre for Computing, Karlsruhe Institute of Technology (KIT), Germany and 
 2. Innovative Computing Lab, University of Tennessee, Knoxville, TN, USA and 
@@ -119,6 +120,7 @@ affiliations:
 46. Deutsches Krebsforschungszentrum, Heidelberg, Germany
 47. Chair of Scientific Computing in Computer Science, Technical University Munich, Germany and
 48. School of Computing, Communication and Business, Hochschule für Technik und Wirtschaft Berlin, Germany
+49. Forschungszentrum Jülich GmbH, JCNS-MLZ, Garching, Germany
 - * axel.loewe@kit.edu, gunnar.seemann@universitaets-herzzentrum.de
 - † Contributed equally
 bibliography: 'references.bib'
